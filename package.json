@@ -1,0 +1,12 @@
+{
+  "name": "svg-icons",
+  "version": "0.1.0",
+  "dependencies": {
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.6.0",
+    "grunt-svg2png": "^0.2.5",
+    "grunt-svgmin": "^1.0.0",
+    "grunt-svgstore": "^0.3.6",
+    "multiline": "^1.0.2"
+  }
+}
