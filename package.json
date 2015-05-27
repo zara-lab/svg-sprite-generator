@@ -1,5 +1,5 @@
 {
-  "name": "svg-icons",
+  "name": "svg-sprite-generator",
   "version": "0.1.0",
   "dependencies": {
     "grunt-contrib-clean": "^0.6.0",
